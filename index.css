@@ -14,13 +14,14 @@
 }
 input{
     position: relative;
-    left: 46.4vw;
+    left: 48.4vw;
     height: 4vh;
     top:14vh;
-    width: 8.5vw;
-    border: 1px black solid;
+    width: 6.5vw;
     border-radius: 26px;
-    background: linear-gradient(135deg, #8e44ad, #9b59b6, #6a0dad);
+    background-color: transparent;
+    border: none;         
+     color: black;    
 }
 *{
     padding: 0;margin: 0;
@@ -64,11 +65,13 @@ h1{
         position: relative;
         height: 4vh;
         top: 14vh;
-        width: 15vw;
+        width:35vw;
         border: 1px black solid;
         border-radius: 26px;
-        left: 13vh;
-        background: linear-gradient(135deg, #8e44ad, #9b59b6, #6a0dad);
+        left: 14vh;
+        background-color: transparent;
+        border: none;         
+         color: black;            
     }
     .grid{
         display:grid;
