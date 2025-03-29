@@ -49,7 +49,7 @@ h1{
         position: relative;
         height: 6vh;
         top: 34vh;
-        width: 16vw;
+        width: 54vw;
         border: 1px black solid;
         border-radius: 26px;
         left: 0vh;
@@ -61,6 +61,9 @@ h1{
         justify-content:left;
         position: relative;
         top: 35vh;
-        
+        width: 36vh;
+    }
+    .grid-item{
+        width: 8vh;
     }
 }
